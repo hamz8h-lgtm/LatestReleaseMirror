@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="ajavadinezhad--zyrln"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### ajavadinezhad--zyrln
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.4.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.4.0)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.15</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.15)
 
 | File | Size | Download |
 |------|------|----------|
-| `zyrln-windows-amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-windows-amd64.exe) |
+| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
