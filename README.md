@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="patterniha--sni-spoofing"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### patterniha--SNI-Spoofing
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
+🔗 [source](https://github.com/patterniha/SNI-Spoofing) – [<code><small>v1.0</small></code>](https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `SNI-Spoofing_by_patterniha_v1.rar` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/patterniha/SNI-Spoofing/SNI-Spoofing_by_patterniha_v1.rar) |
 <!-- RELEASES_END -->
