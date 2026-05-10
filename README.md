@@ -157,13 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="patterniha--sni-spoofing"></div>
 
-### patterniha--SNI-Spoofing
-
-🔗 [source](https://github.com/patterniha/SNI-Spoofing) – [<code><small>v1.0</small></code>](https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `SNI-Spoofing_by_patterniha_v1.rar` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/patterniha/SNI-Spoofing/SNI-Spoofing_by_patterniha_v1.rar) |
 <!-- RELEASES_END -->
