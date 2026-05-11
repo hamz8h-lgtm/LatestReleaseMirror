@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="nickoehler--mediafire_rs"></div>
+<div id="artur-graniszewski--dlss-enabler"></div>
 
-### NicKoehler--mediafire_rs
+### artur-graniszewski--DLSS-Enabler
 
-🔗 [source](https://github.com/NicKoehler/mediafire_rs) – [<code><small>v0.2.1</small></code>](https://github.com/NicKoehler/mediafire_rs/releases/tag/v0.2.1)
+🔗 [source](https://github.com/artur-graniszewski/DLSS-Enabler) – [<code><small>v0.9.1</small></code>](https://github.com/artur-graniszewski/DLSS-Enabler/releases/tag/v0.9.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `mdrs-x86_64-pc-windows-msvc.zip` | 1.2 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/NicKoehler/mediafire_rs/mdrs-x86_64-pc-windows-msvc.zip) |
+| `dlss-enabler-setup_0.9.1-final.20260427._DSB.exe` | 31.4 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/artur-graniszewski/DLSS-Enabler/dlss-enabler-setup_0.9.1-final.20260427._DSB.exe) |
 <!-- RELEASES_END -->
