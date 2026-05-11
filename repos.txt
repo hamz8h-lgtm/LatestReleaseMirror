@@ -2,4 +2,4 @@
 
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular
-therealaleph/MasterHttpRelayVPN-RUST|v1.9.18
+NicKoehler/mediafire_rs|mdrs-x86_64-pc-windows-msvc.zip
