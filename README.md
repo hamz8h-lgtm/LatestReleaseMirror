@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="artur-graniszewski--dlss-enabler"></div>
+<div id="optiscaler--optiscaler"></div>
 
-### artur-graniszewski--DLSS-Enabler
+### optiscaler--OptiScaler
 
-🔗 [source](https://github.com/artur-graniszewski/DLSS-Enabler) – [<code><small>v0.9.1</small></code>](https://github.com/artur-graniszewski/DLSS-Enabler/releases/tag/v0.9.1)
+🔗 [source](https://github.com/optiscaler/OptiScaler) – [<code><small>v0.9.1</small></code>](https://github.com/optiscaler/OptiScaler/releases/tag/v0.9.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `dlss-enabler-setup_0.9.1-final.20260427._DSB.exe` | 31.4 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/artur-graniszewski/DLSS-Enabler/dlss-enabler-setup_0.9.1-final.20260427._DSB.exe) |
+| `Optiscaler_0.9.1-final.20260427._DSB.7z` | 50.8 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/optiscaler/OptiScaler/Optiscaler_0.9.1-final.20260427._DSB.7z) |
 <!-- RELEASES_END -->
