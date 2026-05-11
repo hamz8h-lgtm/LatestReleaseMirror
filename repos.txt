@@ -2,4 +2,4 @@
 
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular
-artur-graniszewski/DLSS-Enabler|dlss-enabler-setup_0.9.1-final.20260427._DSB.exe
+optiscaler/OptiScaler|Optiscaler_0.9.1-final.20260427._DSB.7z
