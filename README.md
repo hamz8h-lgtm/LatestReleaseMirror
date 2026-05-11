@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="optiscaler--optiscaler"></div>
+<div id="optiscaler--optipatcher"></div>
 
-### optiscaler--OptiScaler
+### optiscaler--OptiPatcher
 
-🔗 [source](https://github.com/optiscaler/OptiScaler) – [<code><small>v0.9.1</small></code>](https://github.com/optiscaler/OptiScaler/releases/tag/v0.9.1)
+🔗 [source](https://github.com/optiscaler/OptiPatcher) – [<code><small>v0.40</small></code>](https://github.com/optiscaler/OptiPatcher/releases/tag/v0.40)
 
 | File | Size | Download |
 |------|------|----------|
-| `Optiscaler_0.9.1-final.20260427._DSB.7z` | 50.8 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/optiscaler/OptiScaler/Optiscaler_0.9.1-final.20260427._DSB.7z) |
+| `OptiPatcher_v0.40.asi` | 76 KB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/optiscaler/OptiPatcher/OptiPatcher_v0.40.asi) |
 <!-- RELEASES_END -->
