@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="optiscaler--optipatcher"></div>
+<div id="amirshaker000--netlify-relay"></div>
 
-### optiscaler--OptiPatcher
+### amirshaker000--netlify-relay
 
-🔗 [source](https://github.com/optiscaler/OptiPatcher) – [<code><small>v0.40</small></code>](https://github.com/optiscaler/OptiPatcher/releases/tag/v0.40)
+🔗 [source](https://github.com/amirshaker000/netlify-relay) – [<code><small>v2.0.0</small></code>](https://github.com/amirshaker000/netlify-relay/releases/tag/v2.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `OptiPatcher_v0.40.asi` | 76 KB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/optiscaler/OptiPatcher/OptiPatcher_v0.40.asi) |
+| `vless-config-creator-v2.0.0.rar` | 93.0 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/amirshaker000/netlify-relay/vless-config-creator-v2.0.0.rar) |
 <!-- RELEASES_END -->
