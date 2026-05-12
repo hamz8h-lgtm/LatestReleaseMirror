@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="amirshaker000--netlify-relay"></div>
+<div id="patterniha--sni-spoofing"></div>
 
-### amirshaker000--netlify-relay
+### patterniha--SNI-Spoofing
 
-🔗 [source](https://github.com/amirshaker000/netlify-relay) – [<code><small>v2.0.0</small></code>](https://github.com/amirshaker000/netlify-relay/releases/tag/v2.0.0)
+🔗 [source](https://github.com/patterniha/SNI-Spoofing) – [<code><small>v1.0</small></code>](https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `vless-config-creator-v2.0.0.rar` | 93.0 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/amirshaker000/netlify-relay/vless-config-creator-v2.0.0.rar) |
+| `SNI-Spoofing_by_patterniha_v1.rar` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/patterniha/SNI-Spoofing/SNI-Spoofing_by_patterniha_v1.rar) |
 <!-- RELEASES_END -->
