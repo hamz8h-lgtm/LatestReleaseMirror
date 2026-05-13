@@ -157,13 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="patterniha--sni-spoofing"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### patterniha--SNI-Spoofing
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/patterniha/SNI-Spoofing) – [<code><small>v1.0</small></code>](https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.23</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.23)
 
 | File | Size | Download |
 |------|------|----------|
-| `SNI-Spoofing_by_patterniha_v1.rar` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/patterniha/SNI-Spoofing/SNI-Spoofing_by_patterniha_v1.rar) |
+| `mhrv-rs-android-arm64-v8a-v1.9.23.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.23.apk) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hamz8h-lgtm/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
